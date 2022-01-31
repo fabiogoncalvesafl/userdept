@@ -1,6 +1,6 @@
 # userdept
- Projeto Java com Spring Boot
- Contruido no treinamento gratuito: https://devsuperior.com.br
+- Projeto Java com Spring Boot
+- Contruido no treinamento gratuito: https://devsuperior.com.br
 
 ## Visão geral do sistema
 Um pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
@@ -14,7 +14,14 @@ Um pequeno sistema (API REST) de usuários e departamentos, com os seguintes cas
 ## Desenvolvimento moderno: relacional -> objeto -> json
 
 ![](https://github.com/fabiogoncalvesafl/userdept/blob/main/img/objetos.png)
-  
+
+### Tecnologias utilizadas
+### Back end
+- Java
+- Spring Boot
+- JPA
+- Maven
+
 ### Passos a passo
   
 - Criar o projeto
