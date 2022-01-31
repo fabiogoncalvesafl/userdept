@@ -1,5 +1,6 @@
 # userdept
 Projeto Java com Spring Boot
+Contruido no treinamento gratuito:https://devsuperior.com.br
 
 ## Visão geral do sistema
 Um pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
