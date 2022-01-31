@@ -8,11 +8,11 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 - Buscar um usuário pelo seu id
 -  Inserir um novo usuário
 
-- imagem
+![](userdept/img/dominio.png)
 
 ## Desenvolvimento moderno: relacional -> objeto -> json
 
-- imagem
+![](userdept/img/objetos.png)
   
 ### Passos a passo
   
