@@ -8,11 +8,11 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 - Buscar um usuário pelo seu id
 -  Inserir um novo usuário
 
-![](userdept/img/dominio.png)
+![](https://github.com/fabiogoncalvesafl/userdept/blob/main/img/dominio.png)
 
 ## Desenvolvimento moderno: relacional -> objeto -> json
 
-![](userdept/img/objetos.png)
+![](https://github.com/fabiogoncalvesafl/userdept/blob/main/img/objetos.png)
   
 ### Passos a passo
   
