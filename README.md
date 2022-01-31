@@ -35,20 +35,20 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
   
 ### Configurações do banco de dados
 ```java
-### Dados de conexão com o banco H2
+# Dados de conexão com o banco H2
 spring.datasource.url=jdbc:h2:mem:testdb
 spring.datasource.username=sa
 spring.datasource.password=
 
-### Configuração do cliente web do banco H2
+# Configuração do cliente web do banco H2
 spring.h2.console.enabled=true
 spring.h2.console.path=/h2-console
 
-### Configuração para mostrar o SQL no console
+# Configuração para mostrar o SQL no console
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 ```  
-## Script SQL
+### Script SQL
 ```sql  
 INSERT INTO tb_department(name) VALUES ('Gestão');
 INSERT INTO tb_department(name) VALUES ('Informática');
